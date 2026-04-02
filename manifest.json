@@ -1,0 +1,10 @@
+{
+    "id": "feynman-learning",
+    "name": "SEO Outline Generator",
+    "version": "0.1.0",
+    "minAppVersion": "0.15.0",
+    "description": "Generate SEO article outlines and briefs from live SERP context using SerpApi and DeepSeek.",
+    "author": "Your Name",
+    "authorUrl": "https://github.com/yourusername/feynman-learning-plugin",
+    "isDesktopOnly": false
+}
