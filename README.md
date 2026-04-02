@@ -40,3 +40,7 @@ An Obsidian plugin that fetches live SERP results with SerpApi, then sends the k
 npm install
 npm run build
 ```
+
+
+#SEO outline generator
+通过serp api和deepseek api先进行文章研究 再做出文章结构的obsidian插件
