@@ -42,5 +42,5 @@ npm run build
 ```
 
 
-#SEO outline generator
+# SEO outline generator
 通过serp api和deepseek api先进行文章研究 再做出文章结构的obsidian插件
